@@ -1,3 +1,7 @@
+<p align="center">
+    <img title="Flutterwave" height="200" src="https://flutterwave.com/images/logo-colored.svg" width="50%"/>
+</p>
+
 # Flutterwave-Payments-CodeIgniter-3.X.X-Library
 Simple / Easy to integrate Flutterwave Payment methods into CodeIgniter Application. Including the Sample Payment Forms, Payment Status Page and a ready set Webhook. 
 
